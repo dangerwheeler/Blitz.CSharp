@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Bryan Wheeler</authors>
+    <owners>Bryan Wheeler</owners>    
+    <projectUrl>https://github.com/dangerwheeler/Blitz.CSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A C# client library for Blitz.io</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2011</copyright>
+    <tags>Blitz loadtest</tags>
+  </metadata>
+</package>
